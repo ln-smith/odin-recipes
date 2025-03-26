@@ -1,0 +1,16 @@
+/* Home Page Styles */
+
+* {
+    background-color: #fdfdfd;
+    font-family: "Arial", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+}
+
+li {
+    list-style-type: none;
+    font-size: 1.5rem;
+}
